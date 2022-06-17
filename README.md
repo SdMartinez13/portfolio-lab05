@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Stephen Martinez's Portfolio
 
-Make it your own! 
+## [Click here to view the deployed site](https://stephenmartinezportfolio.netlify.app/)
