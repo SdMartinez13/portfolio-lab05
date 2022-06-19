@@ -13,36 +13,12 @@
       {
         "title": "Gallery of Horns",
         "startDate": "2022",
-        "description": "Application displays multiple animals both fantasy and .",
+        "description": "Application displays multiple fantasy and actual animals with horns.  With this site the user is given a viuall appealing view of all animals, but can change the view of animals based on the number of horns.  User can also click on any of the displayed images to open another window with a larger size of that image as well as the display.  Finally, user can choose their favorite beast utilizing the provided button and will display how many times that photo has been favorited ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/fullscreen.png",
+          "images/portfolio/fullscreen-popout.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://chic-madeleine-6e167a.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,67 +27,59 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "JASY Destinations",
+        "startDate": "2022",
+        "description": "Team project while attending Code Fellows.  Team JASY created a functional destinations website which allows the user to complete a questionnaire about their ideal vacation.  Based on their answers, the page will display a destination with activities and photos.  The site will also save previous displayed destinations  ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/fullscreen-JASY.png",
+          "images/portfolio/questionnaire.html.png"
         ],
-        "url": "https://github.com",
+        "url": "https://teamjasy.github.io/TeamJASYproject/index.html",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Highline Public Schools",
+        "title": "Safety & Security Officer",
+        "years": "10.2017 - 10.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Non-Tech Position"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy",
+        "title": "Hospital Corpsman",
+        "years": "07.1999 - 02.2003",
         "mainTech": [
-          "Angular 7/8"
+          "Non-Tech Position"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          
         ]
       }
     ]
