@@ -5,6 +5,7 @@ import reactIcon from "@iconify/icons-logos/react";
 // import vueIcon from "@iconify/icons-logos/vue";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import htmlFill from '@iconify/icons-akar-icons/html-fill';
+import cssFill from '@iconify/icons-akar-icons/css-fill';
 
 class About extends Component {
   render() {
@@ -42,6 +43,10 @@ class About extends Component {
                   />
                   <Icon
                     icon={htmlFill}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={cssFill}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
