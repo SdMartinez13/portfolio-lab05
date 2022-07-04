@@ -31,6 +31,8 @@ html {
 
 header {
 	position: relative;
+	background-image: url('../public/images/programming-coding.jpeg');
+	background-size: cover;
 	height: 520px;
 	min-height: 450px;
 	width: 100%;
@@ -415,6 +417,7 @@ header h1 {
 
 footer {
 	background: #696969;
+	
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
